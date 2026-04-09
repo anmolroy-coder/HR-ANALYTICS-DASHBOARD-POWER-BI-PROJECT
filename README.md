@@ -30,7 +30,7 @@
 
 • Created calculated columns (Attrition Count)
 
-• Created measures (Attrition Rate, KPIs)
+• Created measures (Attrition Rate)
 
 ## Dashboard Features
 • Interactive and dynamic visuals
